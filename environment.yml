@@ -1,0 +1,4 @@
+name: abstractiveSummarization
+channels:
+  - defaults
+prefix: C:\Users\PC\.conda\envs\abstractiveSummarization

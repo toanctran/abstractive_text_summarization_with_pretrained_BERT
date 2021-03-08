@@ -1,0 +1,87 @@
+2021-02-06 16:01:59,308 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-06 16:01:59,390 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-06 16:02:55,617 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-06 16:02:58,405 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-06 16:50:23,166 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-06 16:50:23,229 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-06 16:50:29,962 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-06 16:50:33,191 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-06 16:52:51,774 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-06 16:52:51,804 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-06 16:52:57,590 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-06 16:52:59,583 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-06 16:55:52,397 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-06 16:55:52,411 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-06 16:55:57,725 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-06 16:55:59,699 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-06 17:32:34,457 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-06 17:32:34,527 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-06 17:32:40,653 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-06 17:32:42,948 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-06 17:43:54,645 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-06 17:43:54,689 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-06 17:44:00,709 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-06 17:44:03,060 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-06 17:53:36,416 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-06 17:53:36,456 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-06 17:53:43,581 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-06 17:53:47,173 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-06 18:21:31,412 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-06 18:21:31,487 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-06 18:21:38,950 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-06 18:21:43,204 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-06 18:21:50,336 - tensorflow - INFO - Train and Test tf_datasets created
+2021-02-06 18:21:50,357 - tensorflow - INFO - Training from scratch
+2021-02-06 19:37:58,308 - tensorflow - WARNING - AutoGraph could not transform <bound method StreamWrapper.write of <colorama.ansitowin32.StreamWrapper object at 0x00000190DC5018E0>> and will run it as-is.
+Cause: mangled names are not yet supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2021-02-08 01:21:31,892 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-08 01:21:32,008 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-08 01:21:40,030 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-08 01:21:43,705 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-08 01:21:52,415 - tensorflow - INFO - Train and Test tf_datasets created
+2021-02-08 01:21:52,438 - tensorflow - INFO - Training from scratch
+2021-02-08 01:42:33,338 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-08 01:42:33,414 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-08 01:42:40,981 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-08 01:42:43,497 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-08 01:42:52,631 - tensorflow - INFO - Train and Test tf_datasets created
+2021-02-08 01:42:52,761 - tensorflow - INFO - Training from scratch
+2021-02-08 03:22:22,423 - tensorflow - WARNING - AutoGraph could not transform <bound method StreamWrapper.write of <colorama.ansitowin32.StreamWrapper object at 0x000002CB4E3143D0>> and will run it as-is.
+Cause: mangled names are not yet supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2021-02-09 10:13:21,465 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-09 10:13:21,620 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-09 10:13:35,474 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-09 10:13:38,400 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-09 10:13:50,548 - tensorflow - INFO - Train and Test tf_datasets created
+2021-02-09 10:13:50,580 - tensorflow - INFO - Training from scratch
+2021-02-09 11:39:45,942 - tensorflow - WARNING - AutoGraph could not transform <bound method StreamWrapper.write of <colorama.ansitowin32.StreamWrapper object at 0x000001D2D7538E80>> and will run it as-is.
+Cause: mangled names are not yet supported
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2021-02-10 11:01:09,337 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-10 11:01:09,428 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-10 11:01:25,855 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-10 11:01:29,665 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-10 11:01:39,269 - tensorflow - INFO - Train and Test tf_datasets created
+2021-02-10 11:01:39,292 - tensorflow - INFO - Training from scratch
+2021-02-10 12:32:16,743 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-10 12:32:17,049 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-10 12:32:23,288 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-10 12:32:26,835 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-10 12:32:36,218 - tensorflow - WARNING - Mixed precision compatibility check (mixed_float16): WARNING
+The dtype policy mixed_float16 may run slowly because this machine does not have a GPU. Only Nvidia GPUs with compute capability of at least 7.0 run quickly with mixed_float16.
+If you will use compatible GPU(s) not attached to this host, e.g. by running a multi-worker model, you can ignore this warning. This message will only be logged once
+2021-02-10 12:32:36,219 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow\python\keras\mixed_precision\loss_scale.py:56: DynamicLossScale.__init__ (from tensorflow.python.training.experimental.loss_scale) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.keras.mixed_precision.LossScaleOptimizer instead. LossScaleOptimizer now has all the functionality of DynamicLossScale
+2021-02-10 12:32:36,233 - tensorflow - WARNING - tf.keras.mixed_precision.experimental.LossScaleOptimizer is deprecated. Please use tf.keras.mixed_precision.LossScaleOptimizer instead. For example
+  opt = tf.keras.mixed_precision.experimental.LossScaleOptimizer(opt)
+2021-02-10 12:32:36,717 - tensorflow - INFO - Train and Test tf_datasets created
+2021-02-10 12:32:36,737 - tensorflow - INFO - Training from scratch
+2021-02-10 12:35:06,132 - tensorflow - WARNING - GPU Not available so Running in CPU
+2021-02-10 12:35:06,401 - tensorflow - INFO - Extracting pretrained word embeddings weights from BERT
+2021-02-10 12:35:11,990 - tensorflow - INFO - Embedding matrix shape '(30522, 768)'
+2021-02-10 12:35:15,876 - tensorflow - INFO - Loading Pre-trained BERT model for BERT SCORE calculation
+2021-02-10 12:35:24,987 - tensorflow - INFO - Train and Test tf_datasets created
+2021-02-10 12:35:25,007 - tensorflow - INFO - Training from scratch
